@@ -251,18 +251,6 @@ npm run dev
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here:
-
-- Login Page
-- PDF Upload Page
-- Question Answering
-- Report Generation
-- Summary Generation
-
----
-
 # 👨‍💻 Author
 
 **Hrithik Kumar Benda**
